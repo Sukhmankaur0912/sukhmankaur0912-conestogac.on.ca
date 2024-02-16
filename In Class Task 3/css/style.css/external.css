@@ -1,0 +1,42 @@
+/* my name is sukhman kaur, and student id ;8970912*/
+.main{
+    width: 33%;
+    float: left;
+}
+.aside{
+    float: right;
+    width: 44%;
+}
+.structural {
+    padding: 20px;
+    border: 2px solid #ea1c1c;
+    margin: 20px
+}
+#para1 {
+    color: rgb(12, 98, 169);
+}
+
+#para2 {
+    color: rgb(21, 221, 204); 
+}
+header {
+    background-color: hsl(0, 93%, 52%); 
+}
+
+main {
+    background-color: hsl(166, 55%, 49%); 
+}
+
+aside {
+    background-color: hsl(205, 86%, 48%);
+}
+
+footer {
+    background-color: hsl(60, 100%, 50%); 
+}
+a :hover {
+color: #a10c0c;
+}
+footer p{
+    font-size: 14px;
+}
